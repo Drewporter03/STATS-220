@@ -1,2 +1,2 @@
-# STATS-220
-my favorite class 
+# STATS 220 🙃
+my favorite class
