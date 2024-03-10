@@ -1,6 +1,6 @@
 <a name="top"></a>
 # STATS 220 :octocat:
-## my **favorite** class
+
 
 > [!NOTE]
 > below is a dropdown
@@ -16,7 +16,10 @@
 3. A *reluctant* student.
 
 </details>
-This repo is for STATS 220, I made this repo as a requirement for a class project, this readme file is for me to practice markdown. 
+
+## Purpose of this Repo
+
+This repo is for **STATS 220**, I made this repo as a requirement for a class project, this readme file is for me to practice markdown. 
 
 ---
 
